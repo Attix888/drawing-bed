@@ -1,2 +1,2 @@
 # drawing-bed
-img
+`There are all my images of blog`.
